@@ -1,0 +1,2 @@
+# Data Visualization
+Folder ini berisi materi, kode program, tugas, serta ujian yang telah dilalui selama perkuliahan Data Visualization di ITB STIKOM Bali. Bagi kalian yang juga sedang berkuliah di STIKOM Bali dan mendapatkan materi data visualization, bisa juga menggunakan ini sebagai contoh, siapa tau mirip mirip :grin:

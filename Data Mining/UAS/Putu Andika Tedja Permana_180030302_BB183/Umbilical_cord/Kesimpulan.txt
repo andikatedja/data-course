@@ -1,0 +1,1 @@
+Dari 4 metode yang digunakan, adapun performa terbaik yang dihasilkan pada dataset Umbilical_cord ini adalah metode KNN dan Random Forest, dengan akurasi keduanya sebesar 100%

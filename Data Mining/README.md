@@ -1,0 +1,2 @@
+# Data Mining
+Folder ini berisi materi, kode program, tugas, serta ujian yang telah dilalui selama perkuliahan Data Mining di ITB STIKOM Bali. Bagi kalian yang juga sedang berkuliah di STIKOM Bali dan mendapatkan materi data mining, bisa juga menggunakan ini juga sebagai contoh, siapa tahu mirip mirip :grin:

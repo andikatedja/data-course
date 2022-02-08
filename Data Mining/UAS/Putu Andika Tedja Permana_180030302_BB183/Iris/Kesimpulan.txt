@@ -1,0 +1,1 @@
+Dari 4 metode yang digunakan, adapun performa terbaik yang dihasilkan pada dataset iris ini adalah seluruh metode, dengan akurasi sebesar 100%
