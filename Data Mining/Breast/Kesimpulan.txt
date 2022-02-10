@@ -1,0 +1,1 @@
+Dari 4 metode yang digunakan, adapun performa terbaik yang dihasilkan pada dataset Breast ini adalah metode naive bayes dengan akurasi sebesar 98%
