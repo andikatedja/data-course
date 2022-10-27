@@ -16,3 +16,5 @@ Dalam repository ini terdapat beberapa folder, yaitu:
    Folder ini berisi kode-kode ketika saya mengikuti pembelajaran dasar machine learning di Udemy.
 6. **Statistics using Python**  
    Folder ini berisi kode-kode ketika saya mengikuti pembelajaran statistics for data science di Udemy. Yah walau agak mumet dan belum ngerti wkwkwk
+7. **Udemy - Pandas Crash Course**  
+   Ini adalah course yang mempelajari tentang library Pandas. Pandas sendiri sering digunakan untuk manipulasi data.
