@@ -18,3 +18,5 @@ Dalam repository ini terdapat beberapa folder, yaitu:
    Folder ini berisi kode-kode ketika saya mengikuti pembelajaran statistics for data science di Udemy. Yah walau agak mumet dan belum ngerti wkwkwk
 7. **Udemy - Pandas Crash Course**  
    Ini adalah course yang mempelajari tentang library Pandas. Pandas sendiri sering digunakan untuk manipulasi data.
+8. **Dicoding - Pengembangan ML**  
+   Saya mendapatkan kesempatan untuk mendapatkan beasiswa IDCamp kelas Pengembangan Machine Learning. Pada folder ini berisi project submission yang telah saya kumpulkan.
